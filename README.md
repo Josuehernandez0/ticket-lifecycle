@@ -408,7 +408,7 @@ Now look at the comment history
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/f5fx1L4.png"/>
 </p>
 <p>
 Lets respond to Karen type the following out, next leave the ticket open and click post reply. Then log out of Jane account 
@@ -416,7 +416,7 @@ Lets respond to Karen type the following out, next leave the ticket open and cli
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/9zIkPnz.png"/>
 </p>
 <p>
 Now type karenkaren then type Password1 then click log in 
@@ -424,7 +424,7 @@ Now type karenkaren then type Password1 then click log in
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/nXJZGLf.png"/>
 </p>
 <p>
 Next look at the comment history 
@@ -432,7 +432,7 @@ Next look at the comment history
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/vvgbOPg.png"/>
 </p>
 <p>
 Now type the following message to Jane
@@ -440,7 +440,7 @@ Now type the following message to Jane
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/D1lgRv1.png"/>
 </p>
 <p>
 Now type another message, leave the ticket open then click post reply
@@ -448,7 +448,7 @@ Now type another message, leave the ticket open then click post reply
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/eFqiVas.png"/>
 </p>
 <p>
 Now look at the two comments you sent to Jane. Then log out 
@@ -456,7 +456,7 @@ Now look at the two comments you sent to Jane. Then log out
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/JpqgVb0.png"/>
 </p>
 <p>
 Now type jane.doe then type Password1 then click log in 
@@ -464,7 +464,7 @@ Now type jane.doe then type Password1 then click log in
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/hCDEWHh.png"/>
 </p>
 <p>
 Next type the following message to karen then click post reply
@@ -472,7 +472,7 @@ Next type the following message to karen then click post reply
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/RzrUzWv.png"/>
 </p>
 <p>
 Next type another message to karen then click post reply 
@@ -480,7 +480,7 @@ Next type another message to karen then click post reply
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/g2xQaV2.png"/>
 </p>
 <p>
 Now log back in the karen account and type the following messages after jane then look at the message histroy to see what is going on then log out of karen account 
@@ -488,7 +488,7 @@ Now log back in the karen account and type the following messages after jane the
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/iqs2ko7.png"/>
 </p>
 <p>
 Now log back into jane account type jane.doe then Password1 then click log in 
@@ -496,7 +496,7 @@ Now log back into jane account type jane.doe then Password1 then click log in
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/dKA0cp0.png"/>
 </p>
 <p>
 Next type the following message and click resolved then click post reply 
@@ -504,7 +504,7 @@ Next type the following message and click resolved then click post reply
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/bdcD85r.png"/>
 </p>
 <p>
 Now go back to Microsoft Azure and type Resource Group. Now we are going to delete the resource groups. Click on RG-osTicket, click delete resource group
@@ -512,7 +512,7 @@ Now go back to Microsoft Azure and type Resource Group. Now we are going to dele
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/UtUxj6l.png"/>
 </p>
 <p>
 Now type the name of the resource group and click the red delete button 
@@ -520,7 +520,7 @@ Now type the name of the resource group and click the red delete button
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/4zJm1tx.png"/>
 </p>
 <p>
 Next click the other resource group NetworkWatcherRG then type the name again then click the red delete button 
