@@ -177,7 +177,7 @@ Now you can see a response on the top with the time the post was sent as well
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/5gK2Ntq.png"/>
 </p>
 <p>
 Now go to my tickets and you can see the tickets assigned to me or assigned to teams. We can see the ticket we sent for us to fix 
@@ -185,7 +185,7 @@ Now go to my tickets and you can see the tickets assigned to me or assigned to t
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/fGNxMTj.png"/>
 </p>
 <p>
 Now click open and we can see all the open tickets. Click the open 
@@ -193,7 +193,7 @@ Now click open and we can see all the open tickets. Click the open
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/X7Eq86R.png"/>
 </p>
 <p>
 Next we are going to click the next ticket created by karen karen again we can see the priority is normal 
@@ -201,7 +201,7 @@ Next we are going to click the next ticket created by karen karen again we can s
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/AtVXSia.png"/>
 </p>
 <p>
 Now click assigned to and click jane doe the account we are currently in then send a comment if you want. Click assign to finish the process
@@ -209,7 +209,7 @@ Now click assigned to and click jane doe the account we are currently in then se
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/ULYAvqu.png"/>
 </p>
 <p>
 Now lets observe the comment karen karen sent to us we can then respon to the comment in the white big box section then click post reply, note since we are in the admin panel we can also closed this ticket
@@ -217,7 +217,7 @@ Now lets observe the comment karen karen sent to us we can then respon to the co
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/OvdmlzJ.png"/>
 </p>
 <p>
 Now go back to the open ticket section and select the next ticket in line created by ken ken 
@@ -225,7 +225,7 @@ Now go back to the open ticket section and select the next ticket in line create
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/XKAQsUb.png"/>
 </p>
 <p>
 Next click the assigned to section 
@@ -233,7 +233,7 @@ Next click the assigned to section
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/3E4t09t.png"/>
 </p>
 <p>
 We are going to assign this ticket to josh garcia the first account we created and we are going to send josh a comment also then click assign 
@@ -241,7 +241,7 @@ We are going to assign this ticket to josh garcia the first account we created a
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/iRYBKQi.png"/>
 </p>
 <p>
 Next we can go back to the open ticket section and see that the ticket we were just on was assigned to josh garcia  
@@ -249,7 +249,7 @@ Next we can go back to the open ticket section and see that the ticket we were j
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/5sVdIPY.png"/>
 </p>
 <p>
 Next we are going to log out of jane doe account 
@@ -257,7 +257,7 @@ Next we are going to log out of jane doe account
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/zF2tpWA.png"/>
 </p>
 <p>
 Next type in josh then Password1 then click log in 
@@ -265,7 +265,7 @@ Next type in josh then Password1 then click log in
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/M14goI8.png"/>
 </p>
 <p>
 Now we can see we are logged in as josh. Next click my tickets
@@ -273,7 +273,7 @@ Now we can see we are logged in as josh. Next click my tickets
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/PuBH15v.png"/>
 </p>
 <p>
 We can see a ticket was sent to us and again we can also see it was created by ken ken. So now click on the ticket
@@ -281,7 +281,7 @@ We can see a ticket was sent to us and again we can also see it was created by k
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/NCPNjxy.png"/>
 </p>
 <p>
 We can see the message history of the tickets. First with the response from ken ken then to jane message sending the ticket to me 
@@ -289,14 +289,14 @@ We can see the message history of the tickets. First with the response from ken 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/OuqZFcX.png"/>
 </p>
 <p>
 Now go to the big white box area and we are going to type that we fixed the hypotheical issue then we can click resolved then click post reply. Its better to resolve a ticket then to close the ticket. Also we are only able to close the ticket because we are also another admin 
 </p>
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/D525pAw.png"/>
 </p>
 <p>
 Now click the closed section for the tickets. We can see all the tickets closed also who they where closed by and the time / date 
@@ -304,7 +304,7 @@ Now click the closed section for the tickets. We can see all the tickets closed 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/riWguYi.png"/>
 </p>
 <p>
 Now since we are in josh's account click the admin panel on the top right 
@@ -312,7 +312,7 @@ Now since we are in josh's account click the admin panel on the top right
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/EZa24yP.png"/>
 </p>
 <p>
 Now click agents then agents again. Click karen karen account 
@@ -320,7 +320,7 @@ Now click agents then agents again. Click karen karen account
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/DxW2k3H.png"/>
 </p>
 <p>
 We are going to give karen karen account a password. Go to the set password section 
@@ -328,7 +328,7 @@ We are going to give karen karen account a password. Go to the set password sect
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/bzV9R9k.png"/>
 </p>
 <p>
 Next uncheck the top and bottom boxes then type in the password for this example my password will be Password1 then click update
@@ -336,7 +336,7 @@ Next uncheck the top and bottom boxes then type in the password for this example
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/bzV9R9k.png"/>
 </p>
 <p>
 Now you will see a loading screen 
@@ -344,7 +344,7 @@ Now you will see a loading screen
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/jBbkw7Q.png"/>
 </p>
 <p>
 Followed by a message saying succesfully updated this agent. Next click log out 
@@ -352,7 +352,7 @@ Followed by a message saying succesfully updated this agent. Next click log out
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/RKylAZo.png"/>
 </p>
 <p>
 Now type karenkaren then Password1 then click log in 
@@ -360,7 +360,7 @@ Now type karenkaren then Password1 then click log in
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/RSKQj06.png"/>
 </p>
 <p>
 Next click the ticket you sent
@@ -368,7 +368,7 @@ Next click the ticket you sent
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/wxniR8L.png"/>
 </p>
 <p>
 Now look at the message history and you will see the ticket is assigned to jane doe 
@@ -376,7 +376,7 @@ Now look at the message history and you will see the ticket is assigned to jane 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/IoqD0td.pngg"/>
 </p>
 <p>
 Now lets explain the situation to Jane Doe type the following from the iamge above once you are done leave the ticket status open then click post note. Then log out of karen karen 
@@ -384,7 +384,7 @@ Now lets explain the situation to Jane Doe type the following from the iamge abo
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/owo5Gjs.png"/>
 </p>
 <p>
 Now log back into jane doe type jane doe then Password1 then click log in 
@@ -392,7 +392,7 @@ Now log back into jane doe type jane doe then Password1 then click log in
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/zqWTU4z.png"/>
 </p>
 <p>
 Next click the ticket you are working on created by karen karen 
@@ -400,7 +400,7 @@ Next click the ticket you are working on created by karen karen
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/NhIHJoI.png"/>
 </p>
 <p>
 Now look at the comment history 
