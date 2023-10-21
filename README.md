@@ -73,7 +73,7 @@ Now click open a new ticket
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/VJjQfcN.png"/>
 </p>
 <p>
 Next in email address type karenkaren@osticket.com. Full name type karen karen, in the help topics select general inquiry. In the issue summary type a summary of the problem. In the box below type more info of the problem then click create ticket
@@ -81,7 +81,7 @@ Next in email address type karenkaren@osticket.com. Full name type karen karen, 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/W7hFWJx.png"/>
 </p>
 <p>
 Now click agents then agents again. Click Jane Doe 
@@ -89,7 +89,7 @@ Now click agents then agents again. Click Jane Doe
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/HvTvlXf.png"/>
 </p>
 <p>
 Now click the access tab. In the Primary department select support and then Supreme Admin. The extended access clcik system administrators then select save changes 
@@ -97,7 +97,7 @@ Now click the access tab. In the Primary department select support and then Supr
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/moPeApb.png"/>
 </p>
 <p>
 Now click the password section of the account. Uncheck the top and the bottom box then type in the password Password1 then click update {NOTE} you can type whatever password you want just remember to type it in your notepad. Now log out of the account on the top right 
@@ -105,7 +105,7 @@ Now click the password section of the account. Uncheck the top and the bottom bo
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/M54RyBF.png"/>
 </p>
 <p>
 Now log back into OsTicket type jane doe then Password1 then click log in 
@@ -113,7 +113,7 @@ Now log back into OsTicket type jane doe then Password1 then click log in
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/fjQXtwQ.png"/>
 </p>
 <p>
 We are now in Jane Doe account in OsTicket. Click the ticket tab and we will see all the tickets we created, also who created them, the date they where created, and the priority from the SLA we created
@@ -121,7 +121,7 @@ We are now in Jane Doe account in OsTicket. Click the ticket tab and we will see
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/rCfFYnv.png"/>
 </p>
 <p>
 Now click the highest priority ticket created by karenkaren. We can see the name of the ticket, the priority, the department, the SLA plan, and even a comment from the user.
@@ -129,7 +129,7 @@ Now click the highest priority ticket created by karenkaren. We can see the name
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/bQfrhcf.png"/>
 </p>
 <p>
 Now click Assigned to and click jane doe. We are bascially taking over the ticket. You can also send a comment to the user who created the ticket then once you are done click assign 
@@ -137,7 +137,7 @@ Now click Assigned to and click jane doe. We are bascially taking over the ticke
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/LdQRXG5.png"/>
 </p>
 <p>
 Now click the SLA plan and  you will see its under SEV-A. Also if the user didnt put a SLA Plan you can do it manually here and also comment then click update
@@ -145,7 +145,7 @@ Now click the SLA plan and  you will see its under SEV-A. Also if the user didnt
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/1JggHJh.png"/>
 </p>
 <p>
 Now click the Department section of the ticket you will see its under support if not then put it to the support department if you want you can send a comment then click update
@@ -153,7 +153,7 @@ Now click the Department section of the ticket you will see its under support if
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/nyeFrTY.png"/>
 </p>
 <p>
 Now click the priority section. You can change or update the level then send a comment then click update 
@@ -161,7 +161,7 @@ Now click the priority section. You can change or update the level then send a c
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/XkkwtSi.png"/>
 </p>
 <p>
 Now go to the bottom of the ticket and click the giant white box this is where you can write a comment to the user for more information. For this I will type the following for the ticket then click post reply
@@ -169,7 +169,7 @@ Now go to the bottom of the ticket and click the giant white box this is where y
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/sCnhItN.png"/>
 </p>
 <p>
 Now you can see a response on the top with the time the post was sent as well
